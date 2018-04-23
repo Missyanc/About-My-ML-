@@ -1,1 +1,20 @@
-
+First week:
+  一、Introduction
+    1.what is the Machine Learning?
+    2.Supervised learning
+      (1).Regression
+      (2).Classification
+    3.Unsupervised Learning
+      (1).Clustering(聚类)
+      (2).Non-clustering
+    4.
+  二、Model Representation and cost Function
+    1.cost Fountion 'J'
+    2.How to get this parameter'θ0,θ1'
+    3.
+  三、Parameter Learning
+    1.Gradient descent(梯度下降) (it may have a diferent local optimum)
+    2.Assigment :  := , eg: a := b(赋值)
+    3.Learning rate :α. It controls how big a step we take when updating my parameter theory j
+    4.Simultaneously update θ0 and θ1
+    5.In my opion:Gradient desent is fall in the tangent direction and finally reaching the lowest point, the slope is 0 at this time.
