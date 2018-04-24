@@ -18,3 +18,8 @@ First week:
     3.Learning rate :α. It controls how big a step we take when updating my parameter theory j
     4.Simultaneously update θ0 and θ1
     5.In my opion:Gradient desent is fall in the tangent direction and finally reaching the lowest point, the slope is 0 at this time.
+    6.Find partial derivatives for θ0 and θ1，and do a summation.
+    7.
+Second Week:
+  一、Environment Setup Instrutions
+    1.
