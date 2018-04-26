@@ -5,5 +5,5 @@
 ![](8.jpg)
 
 
-- [ ] 1.key_word record some important word about ML as its title.
-      'key_word.txt(https://github.com/Missyanc/About-My-ML-/edit/master/key_word.txt)'
+- [ ] 1.key_word record some important word about ML as its title.But it is in editing.
+      '[Key_words.txt](https://github.com/Missyanc/About-My-ML-/edit/master/Key_words.txt)'
